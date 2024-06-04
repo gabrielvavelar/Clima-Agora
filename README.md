@@ -62,7 +62,7 @@ Ao acessar a aplicação, os usuários são recebidos com um campo de entrada on
     
 5. Acesse a Aplicação:
    ```bash
-   http://localhost:3000
+   http://localhost
     ```
 - **Usando Docker**
 
@@ -73,7 +73,7 @@ Ao acessar a aplicação, os usuários são recebidos com um campo de entrada on
 
 4. Acesse a Aplicação:
    ```bash
-   http://localhost:3000
+   http://localhost
     ```
    
 ## 👨‍💻 Autor
