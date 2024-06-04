@@ -66,17 +66,12 @@ Ao acessar a aplicação, os usuários são recebidos com um campo de entrada on
     ```
 - **Usando Docker**
 
-3. Construa a Imagem Docker:
+3. Execute a Aplicação com Docker Compose:
     ```bash
-    docker build -t nome-da-imagem .
+    docker compose up
     ```
 
-4. Execute o Container Docker:
-    ```bash
-    docker run -d -p 3000:3000 nome-da-imagem
-    ```
-    
-5. Acesse a Aplicação:
+4. Acesse a Aplicação:
    ```bash
    http://localhost:3000
     ```
