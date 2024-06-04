@@ -80,17 +80,7 @@ Ao acessar a aplicação, os usuários são recebidos com um campo de entrada on
    ```bash
    http://localhost:3000
     ```
-## Diagrama de Arquitetura AWS
-Diagrama de arquitetura da aplicação na AWS.
-
-![AWS ECS Weather api Architecture (4)](https://github.com/GabrielAvelarbr/Testes/assets/117688731/3eb61680-1a0a-4466-a216-a97f229f8a3e)
-
-## ❌ Dificuldades
-- Lidar com as limitações impostas pela API OpenWeather.
-- Realizar o deploy da aplicação na AWS.  
-  
-## 👨‍💻 Autores
-- [Luiz Fillipe Morais](https://github.com/LuizFillipe1)
+   
+## 👨‍💻 Autor
 - [Gabriel Avelar](https://github.com/GabrielAvelarbr)
-- [Gustavo Brunetti](https://github.com/GustavoBrunetti)
-- [Thiago Figueiredo](https://github.com/ThiagoesAdapti)
+
