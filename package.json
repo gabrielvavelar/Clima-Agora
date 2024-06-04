@@ -1,0 +1,32 @@
+{
+  "name": "clima-agora",
+  "version": "1.0.0",
+  "description": "Consulta de previsões do tempo com a API open weather utilizando NodeJS e Docker",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "API",
+    "openweather",
+    "previsao",
+    "do",
+    "tempo",
+    "Clima",
+    "Agora",
+    "NodeJs"
+  ],
+  "author": "Luiz Fillipe Morais, Gustavo Brunetti, Gabriel Avelar e Thiago Souza",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "prettier": "3.2.5"
+  }
+}
