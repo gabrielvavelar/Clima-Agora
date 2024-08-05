@@ -1,6 +1,5 @@
 <h1 align="center"> ☀️ Clima Agora </h1>
 
-Avaliação das segunda e terceira sprints do programa de bolsas Compass UOL para formação em machine learning para AWS.
 ***
 
 ![Clima-agora-Preview](https://github.com/GabrielAvelarbr/Clima-Agora/assets/117688731/3326768e-4288-488d-b497-2a6412e12572)
