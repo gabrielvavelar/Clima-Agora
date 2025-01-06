@@ -2,7 +2,7 @@
 
 ***
 
-![Clima-agora-Preview](https://github.com/GabrielAvelarbr/Clima-Agora/assets/117688731/3326768e-4288-488d-b497-2a6412e12572)
+![Clima-agora-Preview](https://github.com/user-attachments/assets/848f158a-af3a-4340-9038-398c7814cb1e)
 
 ## 🌐 Sobre o Projeto!
 
@@ -39,12 +39,11 @@ Ao acessar a aplicação, os usuários são recebidos com um campo de entrada on
 
 1. Clone o Repositório:
     ```bash
-    git clone https://github.com/Compass-pb-aws-2024-ABRIL/sprints-2-3-pb-aws-abril.git
+    git clone https://github.com/gabrielvavelar/Clima-Agora.git
     ```
-2. Navegue até o diretório do projeto e Altere para a Branch "grupo-3":
+2. Navegue até o diretório do projeto:
     ```bash
-    cd sprints-2-3-pb-aws-abril
-    git checkout grupo-3
+    cd Clima-Agora
     ```
 
 - **Usando npm**
@@ -76,5 +75,4 @@ Ao acessar a aplicação, os usuários são recebidos com um campo de entrada on
     ```
    
 ## 👨‍💻 Autor
-- [Gabriel Avelar](https://github.com/GabrielAvelarbr)
-
+- [Gabriel Avelar](https://github.com/gabrielvavelar)
