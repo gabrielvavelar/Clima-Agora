@@ -1,5 +1,5 @@
 //Contém a lógica para para a chamada da API open weather e processar os dados retornados
-const access_key = "55b29b8d621215a01d17d0e1039cf110";
+const access_key = "Sua Chave de Acesso API OpenWeather";
 
 async function getWeather(city) {
   const response = await fetch(
